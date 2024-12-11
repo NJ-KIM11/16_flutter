@@ -14,7 +14,7 @@ void main(){
   // variableTest();
 
   // section02
-  collectionTest();
+  // collectionTest();
 
   // section03
   // nullSafetyTest();
@@ -26,7 +26,7 @@ void main(){
   // functionTest();
 
   // section06
-  // classTest();
+  classTest();
 
   // section07
   // extendsTest();

@@ -3,6 +3,7 @@
 void classTest(){
   Human human = new Human.empty();
   print(human);   // 다트에서는 메모리 관리가 위임 toString 안되어있어도 주소값이 아니라 type 이 나온다.
+  // toString 해주어서 당연히 내용이 나온다
 
   Human human2 = new Human("홍길동", 20);
   print(human2);
