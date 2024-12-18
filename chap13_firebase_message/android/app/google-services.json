@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56500060131",
+    "project_id": "fir-test-9d356",
+    "storage_bucket": "fir-test-9d356.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56500060131:android:77b5c1e5a12f060d1fead6",
+        "android_client_info": {
+          "package_name": "com.ohgiraffers.chap13_firebase_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUpjKL5ZdKHq3VwmHa7kACu7fuKD0Z0VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
